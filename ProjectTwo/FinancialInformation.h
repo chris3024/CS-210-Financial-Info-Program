@@ -29,6 +29,8 @@ public:
 
 	int getNumberOfYears() const;
 
+
+
 private:
 
 	double m_initialInvestAmount;
